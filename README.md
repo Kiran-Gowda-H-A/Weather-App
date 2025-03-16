@@ -18,7 +18,11 @@ A simple and user-friendly Weather App that fetches real-time weather data by **
 - OpenWeatherMap API
 
   
-[Overview](https://github.com/user-attachments/assets/240b17a3-fbce-4fd4-bc65-daf477ab22aa)
+[Overview](https://github.com/user-attachments/assets/302ffdc3-c5b5-4b37-bb7a-07b8fcb7c1bd)
+
+
+
+
 
 
 
