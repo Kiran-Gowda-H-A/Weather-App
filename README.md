@@ -16,3 +16,7 @@ A simple and user-friendly Weather App that fetches real-time weather data by **
 - CSS  
 - JavaScript  
 - OpenWeatherMap API  
+
+
+https://github.com/user-attachments/assets/240b17a3-fbce-4fd4-bc65-daf477ab22aa
+
